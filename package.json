@@ -1,0 +1,20 @@
+{
+    "name": "back_to-do-app",
+    "version": "1.0.0",
+    "description": "Server de aplicacion de to do",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "nodemon --exec node index.js"
+    },
+    "keywords": [],
+    "author": "Joaquin Medina",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.18.3",
+        "mongoose": "^8.2.1",
+        "morgan": "^1.10.0"
+    }
+}
