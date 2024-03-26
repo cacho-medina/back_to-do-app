@@ -4,4 +4,4 @@ Backend de To do App. Cuenta con endpoints para buscar tareas por id o por el no
 
 ## Api
 
-https://back-to-do-app.vercel.app/api/recetas
+https://back-to-do-app.vercel.app/api/tareas
